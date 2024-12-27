@@ -1,28 +1,26 @@
-# contanct_app
+# Contact App
 
-A new Flutter project.
+Welcome to the **Contact App** project! This is a starting point for building a Flutter-based contact management application. You can easily manage your contacts, store information locally, and explore various Flutter features.
+
+## Features
+
+- **Provider**: State management for efficient data handling
+- **Sqflite**: Local storage for saving contact information
+- **Shared Preferences**: Lightweight storage for user preferences
+- **URL Launcher**: Open URLs (e.g., phone numbers, email addresses)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-<<<<<<< HEAD
-# Contact-App
-# Contact-App
-# Contact-App
-# Contact-App
-# Contact-App
-=======
-# Features
-provider
+Before you begin, make sure you have the following installed:
+- [Flutter](https://flutter.dev/docs/get-started/install)
+- [Dart](https://dart.dev/get-dart)
+- [Android Studio](https://developer.android.com/studio)
 
-sqflite
+### Clone the Repository
 
-shared_preferences
+To get started with the project, clone the repository to your local machine:
 
-url luncher
-
->>>>>>> origin/main
+```bash
+git clone https://github.com/your-username/contact-app.git
